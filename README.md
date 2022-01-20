@@ -1,6 +1,6 @@
-Credentials: 
-Username: AmarLab
-password: 123456
+Credentials: \
+Username: AmarLab\
+password: 123456\
 
 # Getting Started with Create React App
 
