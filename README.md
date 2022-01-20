@@ -1,4 +1,4 @@
-# Credentials: \
+# Credentials of the login page:
 Username: AmarLab\
 password: 123456
 
